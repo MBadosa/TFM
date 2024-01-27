@@ -1,0 +1,1 @@
+Put images inside inference_data folder and run inference.sh from shell
